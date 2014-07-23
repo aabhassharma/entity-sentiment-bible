@@ -14,6 +14,7 @@ This is a VERY SIMPLE program. I didn't think I should make the new NLP programm
 Nor does it have coreference resolution.
 If you have questions about more advanced concepts like those (such as finding shortest path between entities and sentiments, coref resolution etc.) please feel free to message me!
 
+At the end of execution, you should hopefully have all the people and locations in the bible, along with the sentiment that is expressed in the sentences that refer to them.
 Run instructions:
 1. Checkout code  
 
